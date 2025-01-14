@@ -32,12 +32,10 @@ Each project is documented with a brief explanation of its purpose, key concepts
 
 | Project Name        | Description                                      | Key Concepts      |
 |---------------------|--------------------------------------------------|-------------------|
-| **Project 1**       | Introduction to basic C++ syntax and I/O.       | Variables, I/O    |
-| **Project 2**       | Implementation of a basic calculator.           | Functions, Loops  |
-| **Project 3**       | Simple inventory management system.             | Classes, OOP      |
-| **Project 4**       | Implementation of a linked list data structure. | Data Structures   |
+| N/A                 | N/A                                              | N/A               |
 
-*(This is a placeholder list. Update it as you add projects to the repository.)*
+
+
 
 ---
 
@@ -53,4 +51,4 @@ Each project is documented with a brief explanation of its purpose, key concepts
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cpp-projects.git
+   git clone https://github.com/mitchelony/C-plus-plus-Projects.git
